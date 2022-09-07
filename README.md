@@ -1,2 +1,8 @@
 # Yahoo-Finance-Stock-Information
-Webscraper pulls live information from Yahoo Finance with 
+An API that pulls live sock information from Yahoo Finance, including the current price, after hours price, previous close, and open.
+
+## Available Functions
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
