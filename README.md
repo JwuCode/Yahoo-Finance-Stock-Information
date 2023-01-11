@@ -13,6 +13,7 @@ Returns a list of all stock codes in the NASDAQ.
 Argument: name <br>
 Returns current price, afterhours price, previous close as well as open for a single stock.
 
+### Example:
+![alt text](https://user-images.githubusercontent.com/108997989/211698480-8589df39-51e4-4ab2-aaf1-26f55df3ef50.png)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
